@@ -55,7 +55,7 @@
 		</plugins>
 	</build>
 	<modules>
-		<module>hello</module>
-		<module>test</module>
+		<module>netty_hello</module>
+		<module>netty_test</module>
 	</modules>
 </project>
